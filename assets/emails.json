@@ -1,0 +1,114 @@
+[
+    {
+        "number": "1",
+        "subject": "The Case for Newsletters",
+        "author": "Del Halter",
+        "link": "emails/kit-01.html",
+        "img-link": ""
+    },
+    {
+        "number": "2",
+        "subject": "Trying on All the Hats",
+        "author": "Macy McClarin",
+        "link": "emails/kit-02.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-2.1.jpg"
+    },
+    {
+        "number": "3",
+        "subject": "Bird Internship + Biking & Beach",
+        "author": "Oskar Garcia",
+        "link": "emails/kit-03.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-3.1.jpeg"
+    },
+    {
+        "number": "5",
+        "subject": "France Exchange & Monet Gardens",
+        "author": "Jasmine Hickman",
+        "link": "emails/kit-05.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-5.1.jpeg"
+    },
+    {
+        "number": "6",
+        "subject": "Missed Trip, Mountains, Moved Out.",
+        "author": "Rebekah Noonan",
+        "link": "emails/kit-06.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-6.1.jpeg"
+    },
+    {
+        "number": "7",
+        "subject": "Life in Surround Sound",
+        "author": "Rachel Frenchman",
+        "link": "emails/kit-07.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-7.1.jpeg"
+    },
+    {
+        "number": "8",
+        "subject": "How I Started Hand Modeling",
+        "author": "Turner Toliuszis",
+        "link": "emails/kit-08.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-8.1.jpeg"
+    },
+    {
+        "number": "9",
+        "subject": "Is Public Transportation Gay?",
+        "author": "Marlie Hayes",
+        "link": "emails/kit-09.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-9.1.jpeg"
+    },
+    {
+        "number": "10",
+        "subject": "Exciting European Escapades and Extras!",
+        "author": "Emily Murphy",
+        "link": "emails/kit-10.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-10.1.jpeg"
+    },
+    {
+        "number": "11",
+        "subject": "Unemployed Friend Summer",
+        "author": "Anna McFalls",
+        "link": "emails/kit-11.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-11.1.png"
+    },
+    {
+        "number": "12",
+        "subject": "The Deer are Watching Me",
+        "author": "Sara Machado",
+        "link": "emails/kit-12.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-12.1.jpeg"
+    },
+    {
+        "number": "13",
+        "subject": "New York is Normal",
+        "author": "Del Halter",
+        "link": "emails/kit-13.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-13.1.jpeg"
+    },
+    {
+        "number": "14",
+        "subject": "Embracing Joy in Boston",
+        "author": "Macy McClarin",
+        "link": "emails/kit-14.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-14.1.jpeg"
+    },
+    {
+        "number": "15",
+        "subject": "The End of an Era",
+        "author": "Sarah Gissendanner",
+        "link": "emails/kit-15.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-15.1.jpeg"
+    },
+        {
+        "number": "16",
+        "subject": "And the Start of Another",
+        "author": "Sarah Gissendanner",
+        "link": "emails/kit-16.html",
+        "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-16.1.jpeg"
+    },
+            {
+        "number": "17",
+        "subject": "Announcements",
+        "author": "Del Halter",
+        "link": "emails/kit-17.html",
+        "img-link": ""
+    }
+]

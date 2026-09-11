@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keepintouch</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="assets/kit-icon.webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap" rel="stylesheet">
+    <meta name="robots" content="noindex nofollow">
+</head>
+
+<body>
+
+    <div id="password-popup-container">
+        <div id="form-container">
+            <img src="assets/kit-icon.webp">
+            <form id="password-form" onsubmit="return false;">
+                <label for="password">Please enter the password to proceed to Keepintouch.</label>
+                <input id="password" name="password" type="text">
+                <div id="msg-container"></div>
+                <p id="hint">Hint: The password is listed at the bottom of every email.</p>
+            </form>
+        </div>
+    </div>
+    <div id="nav-bar">
+        <div id="back-btn">&#8592;</div>
+        <img id="home-btn" src="assets/kit-icon.webp">
+        <div id="forward-btn">&#8594;</div>
+    </div>
+    <div id="email-popup-container"></div>
+    <div id="header">
+        <img src="assets/Logo-full.svg">
+        <div class="btns">
+            <a target="_blank"
+                href="https://docs.google.com/spreadsheets/d/1GwLKUzVJ9truhMXmPD2xwnZZ3wNoiGFayka-BOzTpmg/edit">Sign-up
+                Sheet</a>
+            <a target="_blank"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfFSnxyxe7TtxOsctgZe-zFNB6lid7-1iSJXAV8p7XIcoMF7Q/viewform">Submission
+                Form</a>
+        </div>
+    </div>
+    <div class="about">
+        <p>Keepintouch is the University of Florida's Unofficial Graphic Design Alumni newsletter.</p>
+    </div>
+    <div id="archive-container"></div>
+    <script src="script.js"></script>
+</body>
+
+</html>
