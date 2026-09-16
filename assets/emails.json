@@ -97,18 +97,25 @@
         "link": "emails/kit-15.html",
         "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-15.1.jpeg"
     },
-        {
+    {
         "number": "16",
         "subject": "And the Start of Another",
         "author": "Sarah Gissendanner",
         "link": "emails/kit-16.html",
         "img-link": "https://raw.githubusercontent.com/chxrdata/image-repository/main/Kit-16.1.jpeg"
     },
-            {
+    {
         "number": "17",
         "subject": "Announcements",
         "author": "Del Halter",
         "link": "emails/kit-17.html",
+        "img-link": ""
+    },
+                {
+        "number": "18",
+        "subject": "I Miss NYC, But I Miss You More",
+        "author": "Eury Kim",
+        "link": "emails/kit-18.html",
         "img-link": ""
     }
 ]

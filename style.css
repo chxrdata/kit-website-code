@@ -193,7 +193,6 @@ iframe {
 }
 
 #archive-container .email-link:hover {
-    transform: scale(1.05);
     border: 1.5px solid #f9ff00;
     background-image: url(assets/header-background.gif);
 }
