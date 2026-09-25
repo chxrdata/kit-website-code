@@ -111,11 +111,25 @@
         "link": "emails/kit-17.html",
         "img-link": ""
     },
-                {
+    {
         "number": "18",
         "subject": "I Miss NYC, But I Miss You More",
         "author": "Eury Kim",
         "link": "emails/kit-18.html",
+        "img-link": ""
+    },
+    {
+        "number": "19",
+        "subject": "David Shares a Lot of Links",
+        "author": "David Clulow",
+        "link": "emails/kit-19.html",
+        "img-link": ""
+    },
+    {
+        "number": "20",
+        "subject": "I'm Neighbors with Trump?!!?!?",
+        "author": "Marlie Hayes",
+        "link": "emails/kit-20.html",
         "img-link": ""
     }
 ]
